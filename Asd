@@ -1,0 +1,8 @@
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input()) 
+x = (d-b)/(a-c)
+y = (a*x+b)
+print (x)
+print (y)
